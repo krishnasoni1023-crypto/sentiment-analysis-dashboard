@@ -1,0 +1,8 @@
+Place the downloaded Kaggle CSV here as:
+
+    reviews_raw.csv
+
+Download from:
+    https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
+
+Note: CSV files are listed in .gitignore and will NOT be committed to Git.
